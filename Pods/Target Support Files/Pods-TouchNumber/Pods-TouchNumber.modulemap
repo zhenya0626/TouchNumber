@@ -1,0 +1,6 @@
+framework module Pods_TouchNumber {
+  umbrella header "Pods-TouchNumber-umbrella.h"
+
+  export *
+  module * { export * }
+}
